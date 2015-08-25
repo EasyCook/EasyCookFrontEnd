@@ -29,7 +29,7 @@ angular.module('easycook', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', '
 		controller: 'LoginCtrl'
 	})
 	.state('account', {
-		url: '/me',
+		url: '/mee',
 		templateUrl: 'app/account/account.html',
 		controller: 'AccountCtrl'
 	})
